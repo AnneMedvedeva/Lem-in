@@ -4,5 +4,5 @@ We are going to look in depth at its calculus bit. How does it work? Simple! We 
 ```
 make
 ./lem-in < [your_file]
-enjoy the output!
 ```
+enjoy the output!
